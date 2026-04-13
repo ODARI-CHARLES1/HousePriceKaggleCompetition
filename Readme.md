@@ -4,6 +4,8 @@ A machine learning competition to predict house prices using the Ames Housing da
 
 <img width="1356" height="100" alt="image" src="https://github.com/user-attachments/assets/92411343-5ac5-4059-a475-790f9d6a9717" />
 
+[Leaderboard](https://www.kaggle.com/competitions/home-data-for-ml-course/leaderboard#)
+
 ## Competition Overview
 
 Predict the sale price of houses based on various features describing residential properties.
